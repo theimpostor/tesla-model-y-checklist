@@ -1,28 +1,3 @@
-# Tesla Model Y Delivery Checklist
-
-The following is a distillation of posts from [`r/TeslaModelY`](https://www.reddit.com/r/TeslaModelY/). The list
-is not meant to replace Tesla's QC and thus doesn't offer 100% coverage. Rather, these contributions from MY owners
-who already walked the path aim to cover recurring problems that unfortunately seem to escape quality control (QC) at
-the factory as well as at the service centers.
-
-Use it to guide your inspection, document findings, assemble a list of problems to be handled by Tesla as pre-delivery issue(s)
-or refuse delivery.
-
-Not all issues can be inspected without unlocking the vehicle. Unless the service center staff offers to
-unlock your vehicle, you cannot do so prior to accepting delivery on your phone. To facilitate making that decision the list begins with
-items that could be inspected while the car is locked.
-
-Since you are inspecting a vehicle for issues, and issues can be dangerous, be careful. Do not stick your fingers between exterior panels
-or anywhere else you cannot visually inspect.
-
-This checklist requires at least 90 minutes to complete.
-
-## Before You Buy
-
-Ensure that you buy the car at the location you intend to pick up. Working with a showroom sales representative means that the rep is not on
-the ground and they are unable to inspect the vehicle themselves before selling it to you. Sales requests are simply forward onto the pickup
-location and any personal details or requests are lost in the handoff.
-
 ## Exterior
 
 ### Locked
